@@ -10,11 +10,13 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding-top:100px;
+
 }
 
 .img-box{
-    border-radius: 10px;
-    padding: 15px;
+    border-radius: 20px;
+    padding: 2px;
     background-color: white;
     margin: 15px;
 }
@@ -25,6 +27,7 @@ body{
     justify-content: center;
     flex-direction:column;
     background-color: white;
+    border-radius: 20px;
 }
 
 .mainImg{
