@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-top:100px;
+    padding-top:150px;
 
 }
 
@@ -33,7 +33,7 @@ body{
 .mainImg{
     border-radius: 10px;
     width: 100%;
-    max-width: 350px;
+    max-width: 330px;
     height: auto;
     margin: 15px;
 }
@@ -41,7 +41,7 @@ body{
 p{
     font-family: Outfit ;
     font-size: 15px;
-    max-width: 345px;
+    max-width: 330px;
     text-align: center;
     margin: 15px;
 }
